@@ -9,7 +9,5 @@ While some people might choose to list their current interests, or maybe even th
 I'm a creativity-minded person who likes applying it to highly logical tasks.
 This leads me to have an interest in certain kinds of design, complex strategy games that reward thinking outside of the box, and an interest in AI.
 
-Here you'll find my portfolio for CS, and my portfolio for TER (shortened to course code for convenience).
+[Here](./portfolio/) you'll find my portfolio for CS, and my portfolio for TER (shortened to course code for convenience).
 When I find the time, I'll try to post my personal projects here as well.
-
-[Testing](./test/)
