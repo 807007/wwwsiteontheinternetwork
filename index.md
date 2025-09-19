@@ -3,6 +3,16 @@ title: Welcome to Kaden LeBlanc's world wide website on the inter-network
 ---
 About me
 ---
+<button onclick="updatePage()">Update to Latest</button>
+
+<script>
+function updatePage() {
+    // Get the current URL without query params, then append a random one
+    const baseUrl = window.location.origin + window.location.pathname;
+    const cacheBuster = '?v=' + new Date().getTime(); // Timestamp ensures uniqueness
+    window.location.href = baseUrl + cacheBuster;
+}
+</script>
 I'm a student taking (intro to CS) and (robotics and control systems).
 
 While some people might choose to list their current interests, or maybe even their interests over time, my interests follow a well-defined pattern:
