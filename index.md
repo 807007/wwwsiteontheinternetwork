@@ -3,7 +3,7 @@ title: Welcome to Kaden LeBlanc's world wide website on the inter-network
 ---
 About me
 ---
-<button onclick="updatePage()">Update to Latest</button>
+<button onclick="updatePage()">Update to latest deployment</button>
 
 <script>
 function updatePage() {
@@ -24,3 +24,5 @@ This leads me to have an interest in certain kinds of design, complex strategy g
 [Here](./portfolio/) you'll find my portfolio for CS and TER (shortened to course code for convenience).
 
 When I find the time, I'll try to post my personal projects here as well.
+
+refresh test
