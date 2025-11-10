@@ -23,7 +23,7 @@ These instructions are not made for research, as the instructions explicitly sta
 This is done so that the LLM does not compromise its reasoning by relying on a source which it nor I know the depth of or the truth of. Even reliable sources can be wrong sometimes, that's just how science works.
 
 ---
-First Iteration <br>
+##First Iteration
 ---
 Create 1-2 paragraph instructions for the rest of your response at the beginning of every response. <br>
 Your instructions should guide you to convey any information or ideas on a topic in an easy to understand fashion. <br>
@@ -149,7 +149,7 @@ Additionally, it focused on creating balanced builds the previous 3 times, rathe
 Overall, this demonstrated that it struggles to explore alternative paths of reasoning.
 
 ---
-Second Iteration <br>
+##Second Iteration
 ---
 Create 1-2 paragraph instructions for the rest of your response at the beginning of every response. <br>
 Your instructions should guide you to convey any information or ideas on a topic in an easy to understand fashion. <br>
