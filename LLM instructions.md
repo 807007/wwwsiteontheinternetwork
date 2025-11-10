@@ -37,8 +37,8 @@ For example, complex programming tasks rely heavily on knowledge of syntax/use o
 
 Explanation: <br>
 &nbsp;&nbsp;&nbsp;Line 1: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As LLMs generate text 1 token at a time, having it lay out instructions for itself should create a more structured response, <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;since it'll refer to these instructions throughout its response. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As LLMs generate text 1 token at a time, having it lay out instructions for itself should create <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a more structured response, since it'll refer to these instructions throughout its response. <br>
 &nbsp;&nbsp;&nbsp;Line 2: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is an attempt to avoid too much technical jargon in responses. <br>
 &nbsp;&nbsp;&nbsp;Line 3: <br>
@@ -46,8 +46,10 @@ Explanation: <br>
 &nbsp;&nbsp;&nbsp;Line 4: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As explained earlier, for reasoning-focused tasks, relying too much on external sources is a problem. <br>
 &nbsp;&nbsp;&nbsp;Line 5: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is done to allow for self-improvement, I've tested other self-improvement instructions (undocumented), and this is best. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As you can tell, I'm still trying to get it to rely less on external sources. It is indeed that big a problem. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is done to allow for self-improvement, I've tested other self-improvement instructions <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(undocumented), and this is best. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As you can tell, I'm still trying to get it to rely less on external sources. It is indeed that <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;big a problem. <br>
 &nbsp;&nbsp;&nbsp;Line 6: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is done so the LLM doesn't write its principles in too much jargon. <br>
 &nbsp;&nbsp;&nbsp;Line 7: <br>
