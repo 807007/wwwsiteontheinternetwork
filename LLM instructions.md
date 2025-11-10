@@ -44,7 +44,8 @@ Explanation: <br>
 &nbsp;&nbsp;&nbsp;Line 3: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Further attempt to increase structure and decrease jargon. <br>
 &nbsp;&nbsp;&nbsp;Line 4: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As explained earlier, for reasoning-focused tasks, relying too much on external sources is a problem. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As explained earlier, for reasoning-focused tasks, relying too much on external sources is a <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;problem. <br>
 &nbsp;&nbsp;&nbsp;Line 5: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is done to allow for self-improvement, I've tested other self-improvement instructions <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(undocumented), and this is best. <br>
