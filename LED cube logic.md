@@ -2,6 +2,7 @@
 title: LED cube logic
 permalink: /portfolio/tech/LEDcubelogic/
 ---
+<script> function updatePage() { // Get the current URL without query params, then append a random one const baseUrl = window.location.origin + window.location.pathname; const cacheBuster = '?v=' + new Date().getTime(); // Timestamp ensures uniqueness window.location.href = baseUrl + cacheBuster; } </script>
 During my grade 11 computer engineering class, I was assigned to design and build something of my choice, and I chose to make a logic gate based LED cube display.
 
 Most LED cube displays use a microcontroller, so the purpose of this was to challenge myself.
