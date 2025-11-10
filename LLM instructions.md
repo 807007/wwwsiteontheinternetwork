@@ -2,6 +2,7 @@
 title: LLM Instructions
 permalink: /portfolio/tech/LLMI1/
 ---
+<script> function updatePage() { // Get the current URL without query params, then append a random one const baseUrl = window.location.origin + window.location.pathname; const cacheBuster = '?v=' + new Date().getTime(); // Timestamp ensures uniqueness window.location.href = baseUrl + cacheBuster; } </script>
 In this project, I develop custom instructions to feed to an LLM (Grok-4) to aid in its reasoning.
 
 I'll provide 2 iterations of these instructions, and explain how they work line by line.
