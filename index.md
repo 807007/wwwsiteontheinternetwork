@@ -15,12 +15,12 @@ function updatePage() {
 </script>
 I'm a student taking CS (intro to CS) and TER (computer engineering, robotics and control systems).
 
-While most people choose to list their current interests, or maybe even their interests over time, my interests follow a well-defined pattern:
-
-I'm a creativity-minded person who likes applying the mindset to highly logical tasks.
-
+While most people choose to list their current interests, or maybe even their interests over time, my interests follow a well-defined pattern: <br>
+I'm a creativity-minded person who likes applying the mindset to highly logical tasks. <br>
 This leads me to have an interest in certain kinds of design, complex strategy games that reward thinking outside of the box, and an interest in machine learning.
 
-[Here](./portfolio/) you can navigate to my CS and TER portfolios (shortened to course code for convenience).
-
+[Here](./portfolio/) you can navigate to my CS and TER portfolios (shortened to course code for convenience). <br>
 When I find the time, I'll try to post my personal projects here as well.
+
+Personal e-mail: kadenleblanc2123@gmail.com <br>
+You'd think I would have more to put here, but e-mail is all I've got.
