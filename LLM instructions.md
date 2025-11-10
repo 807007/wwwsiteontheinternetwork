@@ -55,8 +55,8 @@ Explanation: <br>
 &nbsp;&nbsp;&nbsp;Lines 8 to 9: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Self-explanatory.
 
-Examples: <br>
-&nbsp;&nbsp;&nbsp;The following is an attempt to make Grok-4 (with these instructions) write a text-rendering program in processing 4.3 (sept. 29):
+Example: <br>
+&nbsp;&nbsp;&nbsp;The following is an attempt to make Grok-4 (with these instructions) write a text-rendering program in processing 4.3 (sept. 29, 2025):
 <img width="1155" height="694" alt="LLMIv1_example1" src="https://github.com/user-attachments/assets/4154a44b-ae83-4be6-9bcd-0ce14b2fc975" />
 <img width="1018" height="710" alt="LLMIv1_example1-2" src="https://github.com/user-attachments/assets/82f7b8bd-e8e2-4d0b-b851-f3332c30d457" />
 Code (indentation is messed up by markdown): <br>
@@ -135,7 +135,7 @@ It created a coherent thought process and implimented it in code. <br>
 Overall, it was able to handle the reasoning of a medium-scope problem, but failed to code it properly.
 
 Example 2: <br>
-&nbsp;&nbsp;&nbsp;In this example, Grok-4 (with the instructions) is generating design strategies for a design game described in the prompt.
+&nbsp;&nbsp;&nbsp;In this example, Grok-4 (with the instructions) is generating design strategies for a design game described in the prompt (Sept. 29, 2025).
 <img width="1098" height="636" alt="LLMIv1_example2" src="https://github.com/user-attachments/assets/ce32b1d6-b7f3-4eb5-a028-508d0f0fe42a" />
 <img width="1013" height="674" alt="LLMIv1_example2-2" src="https://github.com/user-attachments/assets/d599d4c1-a436-47a2-86a7-fd847b91e13a" />
 <img width="965" height="470" alt="LLMIv1_example2-3" src="https://github.com/user-attachments/assets/a8034a96-ee31-4d2d-a8e0-262ebc9cf3f0" />
@@ -166,10 +166,10 @@ You may notice I only added one line, and it only addressed the second problem. 
 This is because I don't have a solution to the first problem. <br>
 I could get the AI to write better comments, but that can only do so much. <br>
 The code is generated token by token just like the words, and the problem is that if you try to generate some ultra-esoteric code, it'll have no reference. <br>
-Overall, this is the about the best I can do with my current knowledge. <br>
+Overall, this is the about the best I can do with my current knowledge.
 
 Example: <br>
-Philosophical discussion with Grok-4 (using these instructions): <br>
-https://grok.com/share/c2hhcmQtMw%3D%3D_873728de-1c54-4a85-bc3e-66bbca994ffb
+Philosophical discussion with Grok-4 (using these instructions) (Oct 20, 2025): <br>
+https://grok.com/share/c2hhcmQtMw%3D%3D_873728de-1c54-4a85-bc3e-66bbca994ffb <br>
 Analysis: <br>
 TBA (oh boy, this one's gonna be a doozy...)
