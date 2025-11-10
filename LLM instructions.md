@@ -56,7 +56,7 @@ Explanation: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Self-explanatory.
 
 Examples: <br>
-&nbsp;&nbsp;&nbsp;The following is an attempt to make Grok-4 (with the instructions) write a text-rendering program in processing 4.3 (sept. 29):
+&nbsp;&nbsp;&nbsp;The following is an attempt to make Grok-4 (with these instructions) write a text-rendering program in processing 4.3 (sept. 29):
 <img width="1155" height="694" alt="LLMIv1_example1" src="https://github.com/user-attachments/assets/4154a44b-ae83-4be6-9bcd-0ce14b2fc975" />
 <img width="1018" height="710" alt="LLMIv1_example1-2" src="https://github.com/user-attachments/assets/82f7b8bd-e8e2-4d0b-b851-f3332c30d457" />
 Code (indentation is messed up by markdown): <br>
@@ -130,5 +130,46 @@ void drawD(float x, float y, float s) { <br>
 } <br>
 <img width="999" height="655" alt="LLMIv1_example1-3" src="https://github.com/user-attachments/assets/67ba4de0-def6-4eea-ad07-35ca023cda0b" />
 Analysis: <br>
-[tba]
+The code didn't work perfectly, and it didn't do the entire alphabet, but it did demonstrate awareness of the shape of the letters, and how to impliment those shapes. <br>
+It created a coherent thought process and implimented it in code. <br>
+Overall, it was able to handle the reasoning of a medium-scope problem, but failed to code it properly.
 
+Example 2: <br>
+&nbsp;&nbsp;&nbsp;In this example, Grok-4 (with the instructions) is generating design strategies for a design game described in the prompt.
+<img width="1098" height="636" alt="LLMIv1_example2" src="https://github.com/user-attachments/assets/ce32b1d6-b7f3-4eb5-a028-508d0f0fe42a" />
+<img width="1013" height="674" alt="LLMIv1_example2-2" src="https://github.com/user-attachments/assets/d599d4c1-a436-47a2-86a7-fd847b91e13a" />
+<img width="965" height="470" alt="LLMIv1_example2-3" src="https://github.com/user-attachments/assets/a8034a96-ee31-4d2d-a8e0-262ebc9cf3f0" />
+<img width="995" height="530" alt="LLMIv1_example2-4" src="https://github.com/user-attachments/assets/349ed26a-eb97-4ed4-b614-c6adf7b501f9" />
+Analysis: <br>
+It was able to create specialized strategies and effectively analyze them. <br>
+You may notice this is my forth attempt at this prompt. <br>
+That's because I used this prompt to refine the instructions. <br>
+This (and using it to learn calculus) is how I discovered the jargon problem. <br>
+Additionally, it focused on creating balanced builds the previous 3 times, rather than specializing, resulting in a weakness to any specialized build. <br>
+Overall, this demonstrated that it struggles to explore alternative paths of reasoning.
+
+---
+Second Iteration
+---
+Create 1-2 paragraph instructions for the rest of your response at the beginning of every response. <br>
+Your instructions should guide you to convey any information or ideas on a topic in an easy to understand fashion. <br>
+Then, create a list of loosely related reasoning paths and compare them to each other. <br>
+Every paragraph after this should include an easy to understand thought process and brief instructions for the next paragraph. <br>
+Gather minimal data on topics, rely mostly on your own reasoning to come to conclusions. <br>
+Define logical principles for yourself to follow, WITHOUT relying on ANY sources to create them, use ONLY your own reasoning. <br>
+Do not define these principles in a way that makes them overly connected to their original context. <br>
+Do not maintain too many principles, try to replace connected principles with a more generalized principle that covers for all of them. <br>
+Make an exception if the topic specifically calls for it. <br>
+For example, complex programming tasks rely heavily on knowledge of syntax/use of libraries, things which require extensive use of external sources.
+
+You may notice I only added one line, and it only addressed the second problem. <br>
+This is because I don't have a solution to the first problem. <br>
+I could get the AI to write better comments, but that can only do so much. <br>
+The code is generated token by token just like the words, and the problem is that if you try to generate some ultra-esoteric code, it'll have no reference. <br>
+Overall, this is the about the best I can do with my current knowledge. <br>
+
+Example: <br>
+Philosophical discussion with Grok-4 (using these instructions): <br>
+https://grok.com/share/c2hhcmQtMw%3D%3D_873728de-1c54-4a85-bc3e-66bbca994ffb
+Analysis: <br>
+TBA (oh boy, this one's gonna be a doozy...)
